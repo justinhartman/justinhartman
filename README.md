@@ -1,6 +1,6 @@
 # Hi there, I'm Justin 👋
 
-Here's some info about my contributions on GitHub.
+I joined GitHub on **8 April 2011** and, aside from a [small hiatus in 2018][hiatus], I've been contributing code to public and private repositories from day one. Here are some stats around my contributions to GitHub over the years.
 
 <p align="left" style="display:table-cell;vertical-align:middle;">
   <img src="https://github-readme-stats.vercel.app/api?username=justinhartman&count_private=true&&include_all_commits=true&show_icons=true&hide_border=true&line_height=28&custom_title=My%20GitHub%20Contributions" alt="GitHub Contributions">
@@ -58,3 +58,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[hiatus]: https://justinhartman.co/technical/business/github-microsoft-not-a-bright-future.html
