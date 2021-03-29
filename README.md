@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Coding Stats
+
+<p align="left" style="display:table-cell;vertical-align:middle;">
+  <img src="https://github-readme-stats.vercel.app/api?username=justinhartman&count_private=true&show_icons=true" alt="GitHub Contributions">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinhartman&layout=compact&langs_count=8" alt="Top Languages">
+</p>
+
+![Detail Stats](https://github-profile-trophy.vercel.app/?username=justinhartman)
+
 <!--
 **justinhartman/justinhartman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
