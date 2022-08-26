@@ -7,7 +7,7 @@ I joined GitHub on **8 April 2011** and, aside from a [small hiatus in 2018][hia
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinhartman&theme=radical&layout=compact&hide_border=true&langs_count=10" alt="Top Languages">
 </p>
 
-![Detail Stats](https://github-profile-trophy.vercel.app/?username=justinhartman&theme=radical&border_color=#141321&border_radius=0)
+![Detail Stats](https://github-profile-trophy.vercel.app/?username=justinhartman&theme=radical&border_color=#141321&border_radius=0&hide_border=true)
 
 ## Key Repositories
 
