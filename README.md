@@ -2,7 +2,7 @@
 
 I joined GitHub on **8 April 2011** and, aside from a [small hiatus in 2018][hiatus], I've been contributing code to public and private repositories from day one. Here are some stats around my contributions to GitHub over the years.
 
-<p align="center" style="display:table-cell;vertical-align:middle;">
+<p align="left" style="display:table-cell;vertical-align:middle;">
   <!--  GitHub Contributions  -->
   <picture>
     <source 
@@ -30,7 +30,7 @@ I joined GitHub on **8 April 2011** and, aside from a [small hiatus in 2018][hia
 </p>
 
 <!-- Detailed Stats -->
-<p align="center">
+<p align="left">
   <picture>
       <source 
         srcset="https://github-profile-trophy.vercel.app/?username=justinhartman&theme=radical&border_color=#141321&border_radius=0&hide_border=true"
