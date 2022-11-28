@@ -48,18 +48,18 @@ I joined GitHub on **8 April 2011** and, aside from a [small hiatus in 2018][hia
 
 These are some of the projects I've created which are important to me. Check them out and see what you think.
 
-<a href="https://github.com/justinhartman/lamp-ssl">
-  <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=lamp-ssl&theme=radical&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=lamp-ssl&theme=buefy&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=lamp-ssl&hide_border=true" />
-  </picture>
+<a href="https://github.com/justinhartman/fifa-play-zone">
+    <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=fifa-play-zone&theme=radical&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=fifa-play-zone&theme=buefy&hide_border=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=fifa-play-zone&hide_border=true" />
+    </picture>
 </a>
 <a href="https://github.com/justinhartman/complete-php7-ecom-website">
     <picture>
@@ -74,6 +74,19 @@ These are some of the projects I've created which are important to me. Check the
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=complete-php7-ecom-website&hide_border=true" />
     </picture>
 </a>
+<a href="https://github.com/justinhartman/lamp-ssl">
+  <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=lamp-ssl&theme=radical&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=lamp-ssl&theme=buefy&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=lamp-ssl&hide_border=true" />
+  </picture>
+</a>
 <a href="https://github.com/justinhartman/jekyll-heroku-starter-kit">
     <picture>
         <source 
@@ -85,19 +98,6 @@ These are some of the projects I've created which are important to me. Check the
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=justinhartman&repo=jekyll-heroku-starter-kit&hide_border=true" />
-    </picture>
-</a>
-<a href="https://github.com/22digital/laravel-cashier-fastspring">
-    <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=22digital&repo=laravel-cashier-fastspring&theme=radical&hide_border=true"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=22digital&repo=laravel-cashier-fastspring&theme=buefy&hide_border=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=22digital&repo=laravel-cashier-fastspring&hide_border=true" />
     </picture>
 </a>
 <a href="https://github.com/justinhartman/bootstrap4.espressotemplate">
